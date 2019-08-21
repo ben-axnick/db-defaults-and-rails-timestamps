@@ -1,0 +1,2 @@
+class TableWithoutTimestampDefaults < ApplicationRecord
+end
